@@ -1,6 +1,8 @@
 # PiHole-ad-blocker
 Setting up a RaspberryPi Zero with PiHole ad-blocker 
 
+The good stuff's in the (Wiki)[https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki] page.
+
 ## Contents
 
 1. What is PiHole?
