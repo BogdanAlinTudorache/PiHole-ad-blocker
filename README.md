@@ -1,7 +1,7 @@
 # PiHole-ad-blocker
 Setting up a RaspberryPi Zero with PiHole ad-blocker 
 
-##Contents
+## Contents
 
 1. What is PiHole?
 2. Acquire/reuse hardware
