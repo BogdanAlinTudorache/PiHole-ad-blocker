@@ -4,6 +4,6 @@ ctrl_interface=/var/run/wpa_supplicant
 
 network={
 	scan_ssid=1
-	ssid="NetworkName"
-	psk="Password"
+	ssid="BerryNews"
+	psk="B3rryRullZ"
 }
