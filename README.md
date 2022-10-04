@@ -26,7 +26,7 @@ The good stuff's in the [Wiki](https://github.com/BogdanAlinTudorache/PiHole-ad-
 
 **[5. Install PiHole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/5.-Install-PiHole)**
 
-**[6. Configure pi-hole(https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/6.-Configure-pi-hole)**
+**[6. Configure pi-hole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/6.-Configure-pi-hole)**
 
 **[7. Recursive DNS Server]()**
 
