@@ -24,7 +24,7 @@ The good stuff's in the [Wiki](https://github.com/BogdanAlinTudorache/PiHole-ad-
 
 **[4. Install OS - first boot ](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/4.-Install-OS---first-boot)**
 
-**[5. Install PiHole]()**
+**[5. Install PiHole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/5.-Install-PiHole)**
 
 **[6. Configure PiZero as DNS]()**
 
