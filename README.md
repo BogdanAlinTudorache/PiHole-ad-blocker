@@ -10,9 +10,6 @@ PiHole on a PiZero 2W
 This is a tutorial from hardware-to-software on how to set up a PiHole ad-blocker to work as a DNS on your home network.
 ***
 
-
-The good stuff's in the [Wiki](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki) page.
-
 ## Contents
 ***
 
@@ -26,9 +23,9 @@ The good stuff's in the [Wiki](https://github.com/BogdanAlinTudorache/PiHole-ad-
 
 **[5. Install PiHole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/5.-Install-PiHole)**
 
-**[6. Configure pi-hole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/6.-Configure-pi-hole)**
+**[6. Configure PiHole](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/6.-Configure-pi-hole)**
 
-**[7. Recursive DNS Server]()**
+**[7. Recursive DNS Server](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/7.-Recursive-DNS-Server)**
 
 
 
