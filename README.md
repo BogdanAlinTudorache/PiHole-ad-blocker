@@ -28,6 +28,6 @@ This is a tutorial from hardware-to-software on how to set up a PiHole ad-blocke
 **[7. Recursive DNS Server](https://github.com/BogdanAlinTudorache/PiHole-ad-blocker/wiki/7.-Recursive-DNS-Server)**
 
 
-
-
+***
+Feel free to drop me an email if you have any trouble installing or configuring using this tutorial.
 
