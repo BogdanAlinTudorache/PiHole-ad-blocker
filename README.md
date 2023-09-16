@@ -1,5 +1,5 @@
 # PiHole-ad-blocker
-Setting up a RaspberryPi Zero with PiHole ad-blocker 
+Setting up a RaspberryPi Zero with PiHole ad-blocker. 
 ***
 #         PiHole ![image](https://user-images.githubusercontent.com/49557352/167029755-7017d25e-1860-451d-b033-75c5f1377bbb.png)
 
@@ -7,7 +7,9 @@ Setting up a RaspberryPi Zero with PiHole ad-blocker
 
 PiHole on a PiZero 2W
 
-This is a tutorial from hardware-to-software on how to set up a PiHole ad-blocker to work as a DNS on your home network.
+tl;dr: This is a tutorial from hardware-to-software on how to set up a PiHole ad-blocker to work as a DNS on your home network.
+
+Discover the power of Pi-hole, your ultimate tool for reclaiming control over your internet browsing experience. In this comprehensive tutorial, I'll take you through each step of the process, from understanding the basics to setting up your very own Pi-hole ad blocker.
 ***
 
 ## Contents
